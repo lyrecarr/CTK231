@@ -1,0 +1,113 @@
+
+p{
+    color:teal;
+    background-color: rgb(213, 251, 251);
+}
+
+.h11{
+    color: rgb(186, 138, 225);
+    background-color: #531d95;
+
+}
+
+.h111{
+    background-color: rgb(244, 190, 240);
+    
+}
+
+.help{
+    color:rgb(187, 220, 234);
+    background-color: rgb(6, 18, 15);
+}
+
+.p1{
+    color: rgb(39, 3, 82);
+}
+
+.h12{
+    color: cornflowerblue;
+    background-color:midnightblue;
+}
+
+.h22{
+    color: darkblue;
+    background-color:lightskyblue;
+    text-decoration: underline;
+}
+
+.rr{
+    color: rgb(212, 212, 254);
+    background-color: rgb(28, 100, 173);
+}
+.h32{
+    color: powderblue;
+    background-color: darkcyan;
+    
+}
+
+.bold2{
+    color: dodgerblue;
+
+}
+
+.highlight2{
+    color:mediumslateblue;
+    
+    
+}
+.hl2{
+    text-decoration: underline;
+}
+
+.h24a{
+    color: aliceblue;
+    background-color: navy;
+}
+
+.h24{
+    color:blue ;
+    background-color: aquamarine;
+}
+
+#title3{
+    color: plum;
+    background-color: midnightblue;
+    text-decoration: underline;
+}
+
+.h23{
+    color: rgb(39, 21, 139);
+    background-color:rgb(184, 119, 231)
+}
+
+.h33{
+    color: hotpink;
+    background-color: rgb(225, 244, 234);
+    text-decoration: underline;
+}
+
+.h43{
+    color: deeppink;
+}
+
+.h332{
+    color:darkorchid;
+    background-color:rgb(240, 167, 240);
+}
+
+.h432{
+    color: indigo;
+}
+
+a:link{
+    color: crimson;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: yellow;
+}
+
