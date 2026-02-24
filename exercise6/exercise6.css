@@ -1,0 +1,64 @@
+#wrapper{
+  margin: 1em auto;
+  padding:0;
+  width: 1200px;
+  border: 1px solid lavenderblush;
+  background-color: rgb(230, 211, 249);
+  display:grid; 
+  grid-template-columns:repeat(12,1fr);
+}
+
+body{
+  background-color: rgb(239, 199, 251);
+}
+
+
+
+header {
+  grid-column: span 12;
+  background-color: rgb(194, 155, 231);
+  padding: 6px;
+}
+
+nav {
+  grid-column: span 3;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  width: 200px;
+}
+
+nav li a {
+  display: block;
+  background-color: rgb(225, 115, 221);
+  border: 1px solid black;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  grid-column: span 6;
+}
+
+.mainimg{
+  float: left;
+  padding: 8px;
+}
+
+aside {
+  grid-column: span 3;
+  background-color: rgb(221, 189, 245);
+  padding: 8px;
+}
+
+footer {
+  grid-column: span 12;
+  background-color: rgb(204, 131, 241);
+}
