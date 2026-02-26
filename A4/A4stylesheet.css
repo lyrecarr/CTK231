@@ -2,15 +2,11 @@
 
 body{
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(yikes.JPG);
+  background-image: url(screaming.JPG);
   background-size: 300px;
 
 }
 
-.saysikern{
-    width: 10px;
-
-}
 
 div{
     background-color: aliceblue;
